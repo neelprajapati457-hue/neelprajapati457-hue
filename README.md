@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Neel Prajapati<br><br>🎓 3rd Year Computer Science Engineering Student @ MSU Baroda  <br><br>💻 Passionate about AI, Machine Learning, and Full Stack Development.<br><br>.<br><br>🌱 Learning:<br><br>Data Structures & Algorithms<br><br>🎯 Goal:Become an AI/ML Engineer and build impactful AI products.
+👋 Hi, I'm Neel Prajapati<br><br>🎓 3rd Year Computer Science Engineering Student @ MSU Baroda  <br><br>💻 Passionate about AI, Machine Learning, and Full Stack Development.<br><br>.<br><br><br>🎯 Goal:Become an AI/ML Engineer and build impactful AI products.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neelviratt18.____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neel-prajapati-693923352) 
