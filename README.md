@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Neel Prajapati<br><br>🎓 3rd Year Computer Science Engineering Student @ MSU Baroda  <br><br>💻 Passionate about AI, Machine Learning, and Full Stack Development.<br><br>🚀 Currently building IntervAI, a production-ready AI Interview Assistant.<br><br>🌱 Learning:<br><br>Data Structures & Algorithms<br><br> Machine Learning<br><br>Scikit-learn<br><br>AI/ML<br><br>⚡ Tech Stack:Python • Java • HTML • CSS • JavaScriptNumPy • Pandas • Matplotlib • SeabornGit • GitHub • plotly<br><br>🎯 Goal:Become an AI/ML Engineer and build impactful AI products.
+👋 Hi, I'm Neel Prajapati<br><br>🎓 3rd Year Computer Science Engineering Student @ MSU Baroda  <br><br>💻 Passionate about AI, Machine Learning, and Full Stack Development.<br><br>.<br><br>🌱 Learning:<br><br>Data Structures & Algorithms<br><br> Machine Learning<br><br>Scikit-learn<br><br>AI/ML<br><br>⚡ Tech Stack:Python • Java • HTML • CSS • JavaScriptNumPy • Pandas • Matplotlib • SeabornGit • GitHub • plotly<br><br>🎯 Goal:Become an AI/ML Engineer and build impactful AI products.
 
 
 ## 🌐 Socials:
