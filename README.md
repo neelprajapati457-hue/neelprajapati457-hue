@@ -3,7 +3,7 @@ Hi 👋, I'm Neel K. Prajapati
 </h1>
 
 <h3 align="center">
-AI/ML Engineer in Progress 🚀 | Full Stack Developer | Java DSA Enthusiast
+AI/ML Enthusiast🚀 | Full Stack Developer | Java DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ class Neel:
 
     def __init__(self):
         self.name = "Neel K. Prajapati"
-        self.role = "AI/ML Engineer in Progress"
+        self.role = "AI/ML Enthusiat"
         self.location = "Vadodara, Gujarat 🇮🇳"
 
         self.languages = [
