@@ -79,12 +79,14 @@ class AIEngineer:
 <div align="center">
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-2C2C2C?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+
 ![RAG](https://img.shields.io/badge/RAG-Vector%20Search-7B61FF?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Autonomous%20Workflows-00BFA6?style=for-the-badge)
-
 ![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-2962FF?style=for-the-badge)
 ![Vector Search](https://img.shields.io/badge/Vector%20Search-6C5CE7?style=for-the-badge)
 ![Hybrid Retrieval](https://img.shields.io/badge/Hybrid%20Retrieval-BM25%20%2B%20Vector-00897B?style=for-the-badge)
@@ -102,9 +104,12 @@ class AIEngineer:
 
 ### 🔧 Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=fastapi,django&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 
 ### 🗄️ Databases & Backend Services
 
@@ -116,11 +121,38 @@ class AIEngineer:
 
 <img src="https://skillicons.dev/icons?i=aws,vercel,docker&theme=dark" />
 
-### 🛠️ Developer Tools & Platforms
+### 🧪 Testing & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,anaconda,jupyter,figma,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,anaconda,jupyter,figma&theme=dark" />
+
+![Pytest](https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 </div>
 
 ---
 
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neelprajapati457-hue&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=neelprajapati457-hue&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelprajapati457-hue&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 THINK. BUILD. INNOVATE.
+
+**Turning intelligence into innovation, one model at a time.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:090979&height=110&section=footer" width="100%"/>
+
+</div>
