@@ -124,14 +124,3 @@ class AIEngineer:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🧠 Production RAG Knowledge System
-
-**Intelligent Document Understanding & Retrieval**
-
-Hybrid retrieval, vector databases, document processing, semantic search and LLM-powered question answering.
-
-![RAG](https://img.shields.io/badge/RAG-Production%20System-00D
