@@ -1,4 +1,4 @@
-<!-- =============== HERO SECTION =============== -->
+# 🌌 NEEL PRAJAPATI | AI/ML ENGINEER
 
 <div align="center">
 
@@ -55,12 +55,22 @@ class AIEngineer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,sklearn,tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,rust&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Models%20%26%20Prediction-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-8A2BE2?style=for-the-badge"/>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+<br/>
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models%20%26%20Prediction-00D4FF?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-8A2BE2?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Exploratory%20Analysis-00BFA6?style=for-the-badge)
 
 </div>
 
@@ -68,11 +78,17 @@ class AIEngineer:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-Vector%20Search-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Workflows-00BFA6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-FF6F61?style=for-the-badge"/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Vector%20Search-7B61FF?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Autonomous%20Workflows-00BFA6?style=for-the-badge)
+
+![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-2962FF?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-6C5CE7?style=for-the-badge)
+![Hybrid Retrieval](https://img.shields.io/badge/Hybrid%20Retrieval-BM25%20%2B%20Vector-00897B?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge)
 
 </div>
 
@@ -80,18 +96,29 @@ class AIEngineer:
 
 <div align="center">
 
-| Category | Technologies |
-|:---:|:---|
-| **Languages** | Python, Java, C, JavaScript |
-| **ML Libraries** | NumPy, Pandas, Matplotlib, Scikit-learn |
-| **Backend** | FastAPI, Streamlit |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Databases** | MySQL, MongoDB, Firebase, Supabase, ChromaDB |
-| **Tools** | Git, GitHub, Docker, Jupyter Notebook |
+### 💻 Programming & Web Development
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,rust,html,css,js&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,html,css,js,mysql,mongodb,firebase,supabase,docker,git,github,vscode&theme=dark" />
+### 🔧 Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi,django&theme=dark" />
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🗄️ Databases & Backend Services
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&theme=dark" />
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-FF6F61?style=for-the-badge)
+
+### ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker&theme=dark" />
+
+### 🛠️ Developer Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,anaconda,jupyter,figma,ps&theme=dark" />
 
 </div>
 
@@ -101,63 +128,10 @@ class AIEngineer:
 
 <div align="center">
 
-<a href="https://github.com/neelprajapati457-hue">
-<img src="https://img.shields.io/badge/PROJECT_01-Production%20RAG%20Knowledge%20System-00D4FF?style=for-the-badge"/>
-</a>
+### 🧠 Production RAG Knowledge System
 
 **Intelligent Document Understanding & Retrieval**
 
-Hybrid retrieval, vector databases, document processing and LLM-powered question answering.
+Hybrid retrieval, vector databases, document processing, semantic search and LLM-powered question answering.
 
-<br/>
-
-<img src="https://img.shields.io/badge/PROJECT_02-Agentic%20AI%20Applications-8A2BE2?style=for-the-badge"/>
-
-**Autonomous AI Workflows**
-
-Building intelligent agents that reason, use tools and execute multi-step tasks.
-
-<br/>
-
-<img src="https://img.shields.io/badge/PROJECT_03-Predictive%20Maintenance-00BFA6?style=for-the-badge"/>
-
-**Machine Learning for Industrial Intelligence**
-
-Predicting equipment failures through machine learning and predictive analytics.
-
-</div>
-
----
-
-## 📊 GitHub Performance
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neelprajapati457-hue&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=neelprajapati457-hue&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelprajapati457-hue&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/neelprajapati457-hue/neelprajapati457-hue/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 THINK. BUILD. INNOVATE.
-
-**Turning intelligence into innovation, one model at a time.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:090979&height=110&section=footer" width="100%"/>
-
-</div>
+![RAG](https://img.shields.io/badge/RAG-Production%20System-00D
