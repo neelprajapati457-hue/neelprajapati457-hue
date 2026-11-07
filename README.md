@@ -175,15 +175,11 @@ class AIEngineer:
 
 </div>
 
-## 🐍 GitHub Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelprajapati457-hue&bg_color=1a1b27&color=70a5fd&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
-
-<br/>
-
-<img src="https://github.com/neelprajapati457-hue.png" width="1" height="1" alt="" />
+<img src="https://ghchart.rshah.org/00d4ff/neelprajapati457-hue" alt="Neel's GitHub Contribution Graph" width="100%" />
 
 </div>
 
