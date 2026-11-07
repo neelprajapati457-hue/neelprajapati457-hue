@@ -1,23 +1,196 @@
-# 💫 About Me:
-👋 Hi, I'm Neel Prajapati<br><br>🎓 3rd Year Computer Science Engineering Student @ MSU Baroda  <br><br>💻 Passionate about AI, Machine Learning, and Full Stack Development.<br><br>🎯Goal:Become an AI/ML Engineer and build impactful AI products.
+# 🌌 NEEL PRAJAPATI | AI/ML ENGINEER
 
-<img width="680" height="428" alt="image" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />"
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090979,50:302b63,100:00d4ff&text=NEEL%20PRAJAPATI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20BUILDER&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neel-prajapati-693923352) 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems;Exploring+Generative+AI+%26+LLMs;Engineering+RAG+%26+AI+Agents;Turning+Ideas+Into+Real-World+AI+Products" alt="Typing SVG" />
+</a>
 
+<br/>
 
+<a href="https://linkedin.com/in/neel-prajapati-693923352">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/neelprajapati457-hue">
+<img src="https://img.shields.io/badge/GITHUB-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=neelprajapati457-hue&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=neelprajapati457-hue&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=neelprajapati457-hue&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=neelprajapati457-hue&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ About Me
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Neel Prajapati"
+        self.education = "B.Tech Computer Science & Engineering"
+        self.university = "The Maharaja Sayajirao University of Baroda"
+        self.graduation = 2028
+
+        self.primary_focus = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Agentic AI",
+            "LLM Engineering"
+        ]
+
+        self.currently_building = [
+            "Production RAG Systems",
+            "Intelligent AI Agents",
+            "LLM-powered Applications"
+        ]
+
+        self.goal = "Build impactful AI products"
+
+    def say_hi(self):
+        return "Let's build something intelligent! 🚀"
+```
+
+## 🎓 Education
+
+<div align="center">
+
+| Qualification | Institution | Year |
+|:---|:---|:---:|
+| **B.Tech - Computer Science & Engineering** | The Maharaja Sayajirao University of Baroda | 2024 – 2028 |
+| **HSC (Class XII)** | Shreyas Vidhyalaya | 2024 |
+| **SSC (Class X)** | Ambe School | 2022 |
+
+</div>
+
+---
+
+## 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" />
+
+</div>
+
+## 🧠 AI, Machine Learning & Deep Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
+
+<br/><br/>
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models%20%26%20Prediction-00D4FF?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-8A2BE2?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-LLMs-00BFA6?style=for-the-badge)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+</div>
+
+## 🤖 Generative AI & LLM Engineering
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7B61FF?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20Database-008B8B?style=for-the-badge)
+
+![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-412991?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Autonomous%20Workflows-00BFA6?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-2962FF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge)
+
+</div>
+
+## 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+
+</div>
+
+## ⚙️ Backend Development & Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,firebase&theme=dark" />
+
+<br/><br/>
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Database%20Management-4479A1?style=for-the-badge)
+
+</div>
+
+## 🛠️ Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🏆 Hackathons & Achievements
+
+<div align="center">
+
+![Hackathons](https://img.shields.io/badge/Hackathons-6%2B%20Participations-00D4FF?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+### 🚀 Hackathon Finalist
+
+| Hackathon | Achievement |
+|:---|:---:|
+| **HackMatrix '26** | 🏅 Finalist |
+| **InnovaHack '26** | 🏅 Finalist |
+| **Vibethon '26** | 🏅 Finalist |
+
+**Participated in 6+ Hackathons | Building, Collaborating & Innovating**
+
+</div>
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neelprajapati457-hue&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=neelprajapati457-hue&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelprajapati457-hue&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🐍 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelprajapati457-hue&bg_color=1a1b27&color=70a5fd&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 THINK. BUILD. INNOVATE.
+
+**Turning intelligence into innovation, one model at a time.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:090979&height=110&section=footer" width="100%"/>
+
+</div>
